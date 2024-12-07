@@ -1,0 +1,214 @@
+{
+  "heading": "Conjunctions",
+  "topics": [
+    {
+      "heading": "Conjunctions",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which word best completes the sentence? <br>She tried her best, ___ she didn’t win the race.",
+          "options": [
+            { "text": "because" },
+            { "text": "but" },
+            { "text": "so" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 2,
+          "question": "Choose the correct word: <br>We could go to the beach ___ stay at home.",
+          "options": [
+            { "text": "or" },
+            { "text": "since" },
+            { "text": "but" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 3,
+          "question": "I like apples ___ bananas.",
+          "options": [
+            { "text": "or" },
+            { "text": "but" },
+            { "text": "and" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 4,
+          "question": "Which word best completes the sentence? <br>I wanted to play outside, ___ it started raining.",
+          "options": [
+            { "text": "because" },
+            { "text": "but" },
+            { "text": "so" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 5,
+          "question": "I wanted to go to the park ___ it was raining.",
+          "options": [
+            { "text": "and" },
+            { "text": "or" },
+            { "text": "but" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 6,
+          "question": "Which word best completes the sentence? <br>The dog was barking loudly ___ it heard a strange noise.",
+          "options": [
+            { "text": "but" },
+            { "text": "because" },
+            { "text": "so" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 7,
+          "question": "Fill in the blank with the correct word: <br>I like apples, ___ my brother likes bananas.",
+          "options": [
+            { "text": "so" },
+            { "text": "but" },
+            { "text": "since" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 8,
+          "question": "Which word best completes the sentence? <br>The grass was wet ___ it rained last night.",
+          "options": [
+            { "text": "but" },
+            { "text": "because" },
+            { "text": "so" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 9,
+          "question": "Choose the best word to complete the sentence: <br>He wanted to go to the park, ___ he had too much homework.",
+          "options": [
+            { "text": "since" },
+            { "text": "because" },
+            { "text": "therefore" },
+            { "text": "but" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 10,
+          "question": "Fill in the blank with the correct word: <br>I wore my jacket ___ it was cold outside.",
+          "options": [
+            { "text": "but" },
+            { "text": "so" },
+            { "text": "because" },
+            { "text": "therefore" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 11,
+          "question": "Do you want juice ___ water?",
+          "options": [
+            { "text": "but" },
+            { "text": "or" },
+            { "text": "and" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 12,
+          "question": "I have a dog ___ I don’t have a cat.",
+          "options": [
+            { "text": "and" },
+            { "text": "but" },
+            { "text": "or" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 13,
+          "question": "Which word best completes the sentence? <br>We went to the beach ___ the weather was sunny.",
+          "options": [
+            { "text": "so" },
+            { "text": "but" },
+            { "text": "because" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 14,
+          "question": "We can play outside ___ we finish our homework.",
+          "options": [
+            { "text": "but" },
+            { "text": "because" },
+            { "text": "and" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 15,
+          "question": "Choose the best word to complete the sentence: <br>I wanted to go outside, ___ it was raining.",
+          "options": [
+            { "text": "so" },
+            { "text": "therefore" },
+            { "text": "but" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 16,
+          "question": "Which word best completes the sentence? <br>She was excited, ___ it was her birthday.",
+          "options": [
+            { "text": "but" },
+            { "text": "because" },
+            { "text": "so" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 17,
+          "question": "I like to read books ___ watch TV.",
+          "options": [
+            { "text": "or" },
+            { "text": "but" },
+            { "text": "and" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 18,
+          "question": "Which word best completes the sentence? <br>She wore a hat ___ it was sunny.",
+          "options": [
+            { "text": "so" },
+            { "text": "because" },
+            { "text": "but" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 19,
+          "question": "I like to play with my dog ___ my cat.",
+          "options": [
+            { "text": "and" },
+            { "text": "because" },
+            { "text": "but" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 20,
+          "question": "Choose the correct word to complete the sentence: <br>I like oranges ___ bananas.",
+          "options": [
+            { "text": "but" },
+            { "text": "so" },
+            { "text": "since" },
+            { "text": "and" }
+          ],
+          "answer": 3
+        }
+      ]
+      
+    }
+  ]
+}
